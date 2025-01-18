@@ -1,0 +1,83 @@
+* {
+    font-family: "Plus Jakarta Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    color: #000;
+   
+}
+
+body{
+    margin-bottom: -16px;
+}
+
+.cta-button {
+    color: #fff;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 600;
+    padding: 12px 36px;
+    background: #0C0A09;
+    border-radius: 50px;
+}
+
+.cta-button-link {
+    display: block;
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 600;
+}
+
+.av-con {
+    padding: 20px;
+    border-radius: 8px;
+    background: rgba(0, 0, 0, 0.06);
+    border: 1px solid #D6D3D1;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+}
+
+.heading-text {
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 88px;
+}
+
+.heading-text-2 {
+    font-size: 72px;
+    font-weight: 800;
+    line-height: 88px;
+    letter-spacing: -0.02em;
+}
+
+.heading-text-3 {
+    font-size: 64px;
+    font-weight: 800;
+    line-height: 72px;
+    letter-spacing: -0.02em;
+}
+
+.exp-title {font-weight: bold; font-size: 40px; display: block;}
+.exp-con {font-size: 12px; font-weight: bold; margin-top: 12px; padding-left: 8px;}
+
+
+.p-title {
+font-size: 32px;
+font-weight: 700;
+line-height: 72px;
+letter-spacing: -0.02em;
+}
+
+.footer-content h5 {
+    color: #fff;
+}
+
+.footer-content ul li,
+.footer-content ul li a {
+    color: #fff;
+    opacity: 0.5;
+}
+
